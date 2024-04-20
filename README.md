@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **DATAFAS CRM**
 
-- 🌱 I’m currently learning **NN, ReactJs**
+- 🌱 I’m currently learning **NN**
 
-- 👨‍💻 All of my projects are available at [https://omarelarroud.github.io/](https://omarelarroud.github.io/)
+- 👨‍💻 My presentation Projects webPage available at [https://omarelarroud.github.io/](https://omarelarroud.github.io/)
 
 - 📫 How to reach me **omar.elarroud13@gmail.com**
 
